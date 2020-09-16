@@ -14,7 +14,8 @@ Suggest price for a product, given name, brand name, category, shipping, item de
 ● This is a kernel only challenge, hence the solution should run within 60 min and use no more than 16gb RAM. 
 ● Using external data is not allowed. 
 
-## Metric: ● The evaluation metric for this competition is Root Mean Squared Logarithmic Error. 
+## Metric: 
+● The evaluation metric for this competition is Root Mean Squared Logarithmic Error. 
  
 ## Data:
 File names: train.tsv, test.tsv The files consist of a list of product listings. These files are tab-delimited (‘\t’) 
